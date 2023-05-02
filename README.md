@@ -17,9 +17,3 @@ https://bootstrapclonesite.netlify.app/
 
 
 
-
-
-
-
-
-
